@@ -29,3 +29,7 @@ dataset.shape
 dataset.head()
 
 dataset.info()
+
+dataset.isnull().sum()
+
+dataset.duplicated().sum()
