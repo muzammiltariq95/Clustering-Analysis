@@ -25,3 +25,7 @@ os.environ['OMP_NUM_THREADS'] = '1'
 dataset = pd.read_csv('hflights.csv')
 
 dataset.shape
+
+dataset.head()
+
+dataset.info()
