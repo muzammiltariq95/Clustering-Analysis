@@ -1,7 +1,7 @@
 # Airline Data Clustering Project
 
 ## Objective
-Perform clustering (K-means clustering) for the airline data to obtain the optimum number of clusters. Draw inferences from the clusters obtained.
+Perform clustering (K-means clustering and DBSCAN) for the airline data to obtain the optimum number of clusters. Draw inferences from the clusters obtained.
 
 ## Data Description
 The dataset contains information on flight details, including departure and arrival times, delays, and other relevant metrics. The goal is to identify clusters of flights with similar characteristics for analysis.
